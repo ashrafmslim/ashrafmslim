@@ -1,6 +1,17 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashraf%20Selim&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Analyst%20|%20BI%20Leader%20|%208+%20Years%20Experience&descAlignY=55&descSize=20" />
+</p>
 
-<p>Welcome to my page! </br> I'm Ashraf Selim, Senior Data Analyst & Business Intelligence Leader from <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="13"/> <b>Cairo, Egypt</b>. </p>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  Hey! Nice to see you.
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F2C811&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Turning+Data+into+Strategic+Impact+%F0%9F%93%8A;Power+BI+%7C+Oracle+%7C+SQL+%7C+Python+Expert+%F0%9F%92%BB;Building+Executive+Dashboards+%26+Analytics+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">Welcome to my page! </br> I'm <b>Ashraf Selim</b>, Senior Data Analyst & Business Intelligence Leader from <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="13"/> <b>Cairo, Egypt</b>. </p>
 
 <h3>About Me</h3>
 <p>
@@ -22,6 +33,46 @@ With <b>8+ years</b> of hands-on experience in Business Intelligence and Analyti
   <li>🚀 Enabled launch of <b>3 new products in 6 months</b> through data-driven strategy</li>
   <li>✨ Enhanced data quality by <b>40%</b> via rigorous validation protocols</li>
 </ul>
+
+<h3>📈 Business Impact Metrics</h3>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Data_Utilization-↑_40%25-00D9FF?style=for-the-badge&logo=databricks&logoColor=white" />
+      <br><sub>Governance Framework</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Reporting_Time-↓_50%25-FF6B9D?style=for-the-badge&logo=powerbi&logoColor=white" />
+      <br><sub>Dashboard Automation</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Revenue_Growth-↑_15%25-00E676?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+      <br><sub>Market Intelligence</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Profit_Margin-↑_25%25-FFA726?style=for-the-badge&logo=oogleanalytics&logoColor=white" />
+      <br><sub>Predictive Models</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Data_Quality-↑_40%25-BA68C8?style=for-the-badge&logo=datadog&logoColor=white" />
+      <br><sub>Validation Protocols</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Products_Launched-3_in_6M-26C6DA?style=for-the-badge&logo=rocket&logoColor=white" />
+      <br><sub>Data-Driven Strategy</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Experience-8+_Years-FF7043?style=for-the-badge&logo=clockify&logoColor=white" />
+      <br><sub>BI & Analytics</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Certifications-13+_Earned-42A5F5?style=for-the-badge&logo=google&logoColor=white" />
+      <br><sub>Continuous Learning</sub>
+    </td>
+  </tr>
+</table>
 
 <h3>Technologies & Tools I Work With</h3>
 <p>
@@ -189,7 +240,7 @@ With <b>8+ years</b> of hands-on experience in Business Intelligence and Analyti
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" />
+      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" alt="Power BI" />
       <br>Power BI
     </td>
     <td align="center" width="96">
@@ -209,7 +260,7 @@ With <b>8+ years</b> of hands-on experience in Business Intelligence and Analyti
       <br>Oracle
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=excel" width="48" height="48" alt="Excel" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="48" height="48" alt="Excel" />
       <br>Excel
     </td>
     <td align="center" width="96">
@@ -219,7 +270,63 @@ With <b>8+ years</b> of hands-on experience in Business Intelligence and Analyti
   </tr>
 </table>
 
+<h3>📊 Skills Proficiency</h3>
+<table>
+  <tr>
+    <td width="30%"><b>Power BI & DAX</b></td>
+    <td width="70%">
+      <img src="https://progress-bar.dev/95?title=Expert&width=400&color=F2C811" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>SQL & Oracle</b></td>
+    <td>
+      <img src="https://progress-bar.dev/90?title=Advanced&width=400&color=FF6B6B" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Python Analytics</b></td>
+    <td>
+      <img src="https://progress-bar.dev/85?title=Advanced&width=400&color=4ECDC4" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tableau</b></td>
+    <td>
+      <img src="https://progress-bar.dev/88?title=Advanced&width=400&color=E97627" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>ETL & Integration</b></td>
+    <td>
+      <img src="https://progress-bar.dev/87?title=Advanced&width=400&color=95E1D3" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Governance</b></td>
+    <td>
+      <img src="https://progress-bar.dev/90?title=Expert&width=400&color=F38181" />
+    </td>
+  </tr>
+</table>
+
 <h3>🛠️ Technical Expertise</h3>
+
+<details open>
+<summary><b>📊 Technology Stack Distribution</b></summary>
+<br>
+
+```text
+Power BI & Visualization  ███████████████████████░░  92%
+SQL & Oracle Databases    ████████████████████░░░░░  85%
+Python & Analytics        ████████████████░░░░░░░░░  78%
+ETL & Data Integration    ███████████████████░░░░░░  82%
+Enterprise Systems        ████████████████░░░░░░░░░  75%
+Data Governance           ███████████████████████░░  90%
+```
+
+</details>
+
 <table>
   <tr>
     <td width="30%"><b>📊 BI & Visualization</b></td>
@@ -307,17 +414,60 @@ I'm passionate about turning data into strategic impact and always interested in
   <sub>Specialized in Power BI, Oracle, SQL, Python & Predictive Analytics</sub>
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Activity & Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrafselim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafselim&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrafselim&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F2C811&icon_color=F2C811&text_color=FFFFFF" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafselim&theme=radical&hide_border=true&background=0D1117&ring=F2C811&fire=FF6B6B&currStreakLabel=F2C811" alt="GitHub Streak" height="180">
 </p>
 
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ashrafselim&color=0e75b6&style=flat&label=Profile+Views" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ashrafselim?label=Followers&style=social" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafselim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F2C811&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafselim&bg_color=0D1117&color=F2C811&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" height="180">
+</p>
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashrafselim&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashrafselim/ashrafselim/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashrafselim/ashrafselim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashrafselim/ashrafselim/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashrafselim/ashrafselim/output/github-contribution-grid-snake.svg">
+</picture>
+
+<h3 align="center">📫 Connect With Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashraf-selim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ashrafslim83@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="mailto:ashrafsleem@live.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+  </a>
+  <a href="tel:+201023231888">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
 </p>
 
 <p align="center">
-  <sub>⭐ Don't forget to star repositories you find useful!</sub>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ashrafselim&color=F2C811&style=for-the-badge&label=Profile+Views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ashrafselim?label=Followers&style=for-the-badge&color=FF6B6B" />
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/ashrafselim?label=Stars&style=for-the-badge&color=4ECDC4" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<p align="center">
+  <sub>⭐ Don't forget to star repositories you find useful! | 💼 Open to collaboration opportunities</sub>
 </p>
