@@ -7,6 +7,13 @@
 With <b>8+ years</b> of hands-on experience in Business Intelligence and Analytics, I specialize in transforming raw data into actionable insights that drive operational efficiency, revenue growth, and strategic decision-making in the <b>petrochemical industry</b>.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Utilization-↑%2040%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Revenue%20Growth-↑%2015%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reporting%20Time-↓%2050%25-success?style=for-the-badge" />
+</p>
+
 <h3>Key Achievements</h3>
 <ul>
   <li>📊 Developed company-wide data governance framework, increasing data utilization by <b>40%</b></li>
@@ -34,42 +41,66 @@ With <b>8+ years</b> of hands-on experience in Business Intelligence and Analyti
   <img alt="Google Analytics" src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" />
 </p>
 
-<h3>Core Competencies</h3>
+<h3>🎯 Core Competencies</h3>
 <table>
   <tr>
-    <td><b>📊 Data Visualization & BI</b></td>
-    <td>Power BI, Tableau, Executive Dashboards, KPI Frameworks</td>
+    <td width="50%">
+      <b>📊 Data Visualization & BI</b><br>
+      • Power BI Expert (Dashboard Design, DAX, M Language)<br>
+      • Tableau Advanced Analytics<br>
+      • Executive Dashboard Development<br>
+      • KPI Framework Design & Implementation
+    </td>
+    <td width="50%">
+      <b>💾 Database Management</b><br>
+      • Oracle SQL & PL/SQL (Advanced)<br>
+      • MySQL Database Administration<br>
+      • Oracle E-Business Suite (EBS R12)<br>
+      • Query Optimization & Performance Tuning
+    </td>
   </tr>
   <tr>
-    <td><b>💾 Database & Analytics</b></td>
-    <td>Oracle SQL, MySQL, PL/SQL, Data Modeling, ETL</td>
+    <td>
+      <b>📈 Advanced Analytics</b><br>
+      • Predictive Modeling & Forecasting<br>
+      • Regression & Statistical Analysis<br>
+      • Time Series Analysis<br>
+      • Customer Churn Analysis
+    </td>
+    <td>
+      <b>🐍 Programming & Automation</b><br>
+      • Python (Pandas, NumPy, Matplotlib, Seaborn)<br>
+      • ETL Pipeline Development<br>
+      • Data Transformation Scripts<br>
+      • Process Automation
+    </td>
   </tr>
   <tr>
-    <td><b>🐍 Programming & Scripting</b></td>
-    <td>Python (Pandas, NumPy, Matplotlib, Seaborn), DAX, M Language</td>
-  </tr>
-  <tr>
-    <td><b>📈 Analytics & Forecasting</b></td>
-    <td>Predictive Analytics, Time Series, Regression Analysis, Statistical Modeling</td>
-  </tr>
-  <tr>
-    <td><b>🎯 Business Intelligence</b></td>
-    <td>Data Governance, Strategic Data Analysis, Business Process Improvement</td>
-  </tr>
-  <tr>
-    <td><b>💼 Enterprise Systems</b></td>
-    <td>Oracle E-Business Suite (EBS R12), SAP ERP, QuickBooks Online Integration</td>
+    <td>
+      <b>🏢 Enterprise Solutions</b><br>
+      • Oracle E-Business Suite Implementation<br>
+      • SAP ERP & SAP BI<br>
+      • QuickBooks Online Integration<br>
+      • Multi-System Data Consolidation
+    </td>
+    <td>
+      <b>🎯 Strategic Leadership</b><br>
+      • Data Governance Framework Development<br>
+      • Team Mentorship & Training<br>
+      • Stakeholder Management<br>
+      • Business Process Optimization
+    </td>
   </tr>
 </table>
 
-<h3>Professional Certifications</h3>
+<h3>🎓 Professional Certifications</h3>
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎓 Certification</b></td>
-      <td><b>🏢 Issuing Organization</b></td>
+      <td><b>📜 Certification</b></td>
+      <td><b>🏢 Provider</b></td>
       <td><b>📅 Date</b></td>
-      <td><b>🔗 Credential</b></td>
+      <td><b>🔗 Verify</b></td>
     </tr>
   </thead>
   <tbody>
@@ -77,167 +108,159 @@ With <b>8+ years</b> of hands-on experience in Business Intelligence and Analyti
       <td><b>Regression Analysis: Simplify Complex Data Relationships</b></td>
       <td>Google</td>
       <td>Oct 2025</td>
-      <td><a href="[https://www.credential.net/877fwha9vhak](https://www.coursera.org/account/accomplishments/verify/877FWHA9VHAK)">877FWHA9VHAK</a></td>
+      <td><a href="https://www.coursera.org/account/accomplishments/verify/877FWHA9VHAK" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td><b>The Power of Statistics</b></td>
       <td>Google</td>
       <td>Aug 2025</td>
-      <td><a href="#">View Credential</a></td>
+      <td><a href="https://coursera.org/share/935e0b2b10b56f77042c0e53e730d246" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td><b>Power BI Data Dashboards</b></td>
-      <td>LinkedIn</td>
+      <td>LinkedIn Learning</td>
       <td>Dec 2024</td>
-      <td><a href="#">View Credential</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/cf2247e666a1ba89ad3e71ae7c8218f49d43a48cfa291c293d4fccad7cb2c38c" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td><b>Increase Visibility to Advance Your Career</b></td>
-      <td>LinkedIn</td>
+      <td>LinkedIn Learning</td>
       <td>Nov 2024</td>
-      <td><a href="#">View Credential</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/b3c735623bccdd98136eb8b406527da5782143cdaebda90e17ae855f7b8c26a4" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td><b>Delivering Quality Work with Agility</b></td>
-      <td>IBM</td>
+      <td>IBM / Coursera</td>
       <td>Aug 2024</td>
-      <td><a href="https://www.coursera.org/account/accomplishments/verify/ZUE222DJYGU5">ZUE222DJYGU5</a></td>
+      <td><a href="https://www.coursera.org/account/accomplishments/records/ZUE222DJYGU5" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td><b>Get Started with Python</b></td>
-      <td>Coursera</td>
+      <td>Google / Coursera</td>
       <td>Aug 2024</td>
-      <td><a href="#">View Credential</a></td>
+      <td><a href="https://coursera.org/share/ce56eb066813dcbf55b4824f31bdbd6c" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td><b>Foundations of Data Science</b></td>
       <td>Google / Coursera</td>
       <td>Jun 2024</td>
-      <td><a href="https://www.coursera.org/account/accomplishments/verify/4FRYHFSND74A">4FRYHFSND74A</a></td>
+      <td><a href="https://coursera.org/share/3e2fde5f48e1acb9ab638e825b0cc39d" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td><b>Data Preparation in Power BI</b></td>
       <td>DataCamp</td>
       <td>Sep 2023</td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/30288184">#30,288,184</a></td>
+      <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5338432e889847a2a541b83461cd0d5b6bcc27aa" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td><b>Case Study: Analyzing Customer Churn in Power BI</b></td>
       <td>DataCamp</td>
       <td>Aug 2023</td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/24551517">#24,551,517</a></td>
+      <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/4b1af5cc0bce61f6d516150f2d3167aa8f1ad142" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td><b>Data Visualization in Power BI</b></td>
       <td>DataCamp</td>
       <td>Aug 2023</td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/27208815">#27,208,815</a></td>
+      <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e8aaa75f14223c73687fd332bd903dee04e4c8ea" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td><b>Introduction to Power BI</b></td>
       <td>DataCamp</td>
       <td>Oct 2022</td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/19241638">#19,241,638</a></td>
+      <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/9196bb04d53b02f2b2b4885e9f2dbaa670ab765f" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td><b>Introduction to DAX in Power BI</b></td>
       <td>DataCamp</td>
       <td>Dec 2022</td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/27205091">#27,205,091</a></td>
+      <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/6aacb5964bd62df0e226c60bf0b2fb5246f03451" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td><b>Corporate Finance Fundamentals</b></td>
-      <td>Corporate Finance Institute (CFI)</td>
+      <td>Corporate Finance Institute</td>
       <td>Aug 2021</td>
-      <td><a href="#">37713562</a></td>
+      <td>Credential ID: 37713562</td>
     </tr>
   </tbody>
 </table>
 
-<h3>Technical Skills Overview</h3>
-<details>
-<summary><b>Click to expand full skills list</b></summary>
+<h3>💼 Core Technical Skills</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" />
+      <br>Power BI
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" />
+      <br>Tableau
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="48" height="48" alt="Oracle" />
+      <br>Oracle
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=excel" width="48" height="48" alt="Excel" />
+      <br>Excel
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
 
-**Data Visualization & BI**
-- Power BI (Advanced) ✅ LinkedIn Assessment Passed
-- Tableau
-- Executive Dashboards
-- Performance Dashboards
-- Data Visualization
-- Report Building
+<h3>🛠️ Technical Expertise</h3>
+<table>
+  <tr>
+    <td width="30%"><b>📊 BI & Visualization</b></td>
+    <td>Power BI • Tableau • DAX • M Language • Executive Dashboards • KPI Frameworks</td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Databases</b></td>
+    <td>Oracle SQL • MySQL • PL/SQL • Oracle EBS R12 • Data Modeling • Query Optimization</td>
+  </tr>
+  <tr>
+    <td><b>🐍 Programming</b></td>
+    <td>Python (Pandas, NumPy, Matplotlib, Seaborn) • Statistical Analysis • Data Structures</td>
+  </tr>
+  <tr>
+    <td><b>🔄 ETL & Integration</b></td>
+    <td>Extract, Transform, Load • Data Pipeline • QuickBooks Integration • API Integration</td>
+  </tr>
+  <tr>
+    <td><b>📈 Analytics</b></td>
+    <td>Predictive Analytics • Regression Analysis • Time Series • Statistical Modeling • Forecasting</td>
+  </tr>
+  <tr>
+    <td><b>💻 Enterprise Systems</b></td>
+    <td>Oracle E-Business Suite • SAP ERP • SAP BI • QuickBooks Online • Google Analytics</td>
+  </tr>
+  <tr>
+    <td><b>📋 Data Management</b></td>
+    <td>Data Governance • Data Quality • Data Validation • Master Data Management</td>
+  </tr>
+  <tr>
+    <td><b>🎯 Business Skills</b></td>
+    <td>Strategic Planning • Stakeholder Management • Business Process Improvement • KPI Development</td>
+  </tr>
+</table>
 
-**Database & Query Languages**
-- SQL (Advanced) ✅ LinkedIn Assessment Passed
-- Oracle SQL Developer
-- Oracle Database
-- Oracle E-Business Suite (EBS R12)
-- MySQL
-- PL/SQL
-- Query Writing
-
-**Programming & Analytics**
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- DAX (Power BI)
-- M Language (Power Query)
-- Statistical Modeling
-- Machine Learning
-
-**Data Management**
-- ETL (Extract, Transform, Load)
-- Data Governance
-- Data Validation
-- Data Quality Assurance
-- Data Modeling
-
-**Business Intelligence**
-- Strategic Data Analysis
-- KPI Identification & Tracking
-- Predictive Analytics
-- Customer Insight Analysis
-- Business Process Improvement
-
-**Enterprise Systems**
-- SAP ERP
-- SAP BI
-- SAP BusinessObjects
-- Oracle E-Business Suite
-- QuickBooks Online Integration
-
-**Microsoft Office Suite**
-- Excel (Advanced) ✅ LinkedIn Assessment Passed
-- Power Query
-- PowerPoint
-- Word
-- Access
-- Outlook
-
-**Analytics & Statistics**
-- Regression Analysis
-- Time Series Analysis
-- Forecasting
-- Statistical Modeling
-- The Power of Statistics
-
-**Soft Skills**
-- Stakeholder Management
-- Communication & Presentation
-- Problem Solving & Critical Thinking
-- Creative Problem Solving
-- Attention to Detail
-- Teamwork & Collaboration
-- End User Training
-
-**Financial & Accounting**
-- Financial Analysis
-- Financial Reporting
-- Financial Statements
-- Commercial Finance
-- Budgeting & Forecasting
-- Account Management
-- General Ledger
-- Accounts Payable/Receivable
-
-</details>
+<h3>✅ Verified Skills</h3>
+<p>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&label=LinkedIn%20Verified" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&label=LinkedIn%20Verified" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&label=LinkedIn%20Verified" />
+</p>
 
 <h3>Professional Experience Highlights</h3>
 <p>
@@ -284,6 +307,17 @@ I'm passionate about turning data into strategic impact and always interested in
   <sub>Specialized in Power BI, Oracle, SQL, Python & Predictive Analytics</sub>
 </p>
 
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ashrafselim&color=blue&style=flat-square&label=Profile+Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrafselim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafselim&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+</p>
+
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ashrafselim&color=0e75b6&style=flat&label=Profile+Views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ashrafselim?label=Followers&style=social" />
+</p>
+
+<p align="center">
+  <sub>⭐ Don't forget to star repositories you find useful!</sub>
 </p>
