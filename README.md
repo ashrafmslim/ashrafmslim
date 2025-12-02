@@ -77,7 +77,7 @@ With <b>8+ years</b> of hands-on experience in Business Intelligence and Analyti
       <td><b>Regression Analysis: Simplify Complex Data Relationships</b></td>
       <td>Google</td>
       <td>Oct 2025</td>
-      <td><a href="https://www.credential.net/877fwha9vhak">877FWHA9VHAK</a></td>
+      <td><a href="[https://www.credential.net/877fwha9vhak](https://www.coursera.org/account/accomplishments/verify/877FWHA9VHAK)">877FWHA9VHAK</a></td>
     </tr>
     <tr>
       <td><b>The Power of Statistics</b></td>
